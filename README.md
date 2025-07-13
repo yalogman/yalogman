@@ -2,7 +2,7 @@
 
 Here is some interesting facts about me:
 
-- 🔭 I’m currently working in 1Click company, automatizing 1C programm(local Russian programm for accounting and finance) for FESCO Transportation group, highly known as logistigs company
+- 🔭 I’m currently working in 1Click company, automatizing 1C programm(local Russian programm for accounting and finance) for FESCO Transportation group, highly known as logistics company
 - 🌱 I’m currently learning for AI coding (also known as vibe coding)
 - ⚡ In my free time I like to do sports in gym, also watch sports(football, tennis), playing computer games and coding of course!
 
