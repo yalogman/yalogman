@@ -4,7 +4,7 @@ Here is some interesting facts about me:
 
 - 🔭 Currently working in 1Click company, automatizing 1C programm(local Russian programm for accounting and finance) for FESCO Transportation group, highly known as logistics company
 - 🌱 As for learning I'm interested in AI coding for now (also known as vibe coding)
-- ⚡ In my free time I like to do sports in gym, also watch sports(football, tennis), playing computer games and coding of course!
+- ⚡ In my free time I like to work out in the gym, also watch sports like football and tennis, play video games and code of course!
 
 <div align="center">
   <a href="https://t.me/curious_0ne" target="_blank">
